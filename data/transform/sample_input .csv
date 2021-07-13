@@ -1,0 +1,100 @@
+grade,home_ownership,verification_status,purpose,term,emp_length,int_rate,delinq_2yrs,inq_last_6mths,open_acc,total_acc,acc_now_delinq,total_rev_hi_lim,annual_inc,dti,mths_since_last_delinq,not_default
+E,MORTGAGE,Source Verified,other, 36 months,< 1 year,21.99,2,2,10,28,0,269319,442000,13.86,19,1
+D,MORTGAGE,Verified,debt_consolidation, 60 months,10+ years,20.2,0,0,16,38,0,36700,53000,27.42,,1
+D,MORTGAGE,Not Verified,debt_consolidation, 36 months,3 years,18.92,0,1,11,24,0,30550,125000,11.53,77,1
+B,RENT,Source Verified,debt_consolidation, 36 months,10+ years,13.53,2,1,11,39,0,54000,104000,12.91,16,1
+D,RENT,Verified,debt_consolidation, 60 months,< 1 year,19.52,0,1,15,45,0,13902,56000,14.8,82,1
+A,RENT,Not Verified,credit_card, 36 months,4 years,6.49,0,0,3,11,0,35500,65000,5.8,,1
+D,RENT,Source Verified,other, 36 months,2 years,18.24,0,3,6,10,0,5200,18500,7.94,,1
+E,RENT,Verified,debt_consolidation, 60 months,10+ years,21.49,0,0,10,27,0,24400,60000,30.3,,0
+B,MORTGAGE,Source Verified,home_improvement, 36 months,6 years,11.67,0,1,7,32,0,28000,175000,16.94,,1
+C,MORTGAGE,Source Verified,debt_consolidation, 60 months,2 years,13.98,0,1,12,36,0,12700,78000,13.45,,1
+E,RENT,Source Verified,major_purchase, 60 months,7 years,21.15,0,0,10,19,0,16300,85000,8.34,,1
+D,MORTGAGE,Source Verified,debt_consolidation, 36 months,9 years,17.57,1,0,10,41,0,30900,50000,15.72,6,0
+B,RENT,Not Verified,debt_consolidation, 36 months,< 1 year,12.99,1,1,7,15,0,16600,56700,8.78,6,1
+C,RENT,Not Verified,credit_card, 36 months,10+ years,15.8,1,1,9,35,0,21700,96000,16.95,8,1
+A,MORTGAGE,Source Verified,debt_consolidation, 36 months,8 years,6.62,0,1,12,30,0,28900,61000,13.21,,1
+C,MORTGAGE,Verified,credit_card, 36 months,10+ years,14.49,0,1,12,25,0,64200,120000,26.98,37,1
+B,RENT,Verified,debt_consolidation, 60 months,,13.67,0,0,16,39,0,,62000,23.98,,1
+C,RENT,Verified,debt_consolidation, 60 months,3 years,16.24,1,1,18,52,0,23900,87604,14.82,9,1
+E,RENT,Verified,debt_consolidation, 60 months,2 years,20.49,0,4,12,29,0,15275,41336,27,,1
+C,RENT,Not Verified,debt_consolidation, 36 months,4 years,15.22,0,0,13,22,0,12400,27500,27.49,,1
+D,OWN,Source Verified,debt_consolidation, 60 months,2 years,16.29,0,0,16,39,0,32500,70000,24.38,,1
+D,OWN,Not Verified,debt_consolidation, 36 months,10+ years,17.77,0,3,16,27,0,29600,63000,20.74,35,1
+C,MORTGAGE,Verified,debt_consolidation, 36 months,< 1 year,12.99,0,2,11,29,0,15800,50000,25.44,43,1
+A,MORTGAGE,Not Verified,debt_consolidation, 36 months,2 years,7.62,0,0,12,36,0,47100,68000,11.16,,1
+B,RENT,Not Verified,credit_card, 36 months,7 years,9.99,0,0,9,26,0,18600,34000,29.96,,1
+A,MORTGAGE,Not Verified,debt_consolidation, 36 months,8 years,6.03,0,0,10,25,0,21200,66000,13.36,77,1
+B,RENT,Verified,debt_consolidation, 36 months,10+ years,11.99,0,1,11,29,0,27900,78880,11.4,,1
+B,RENT,Not Verified,credit_card, 36 months,10+ years,9.17,0,0,14,27,0,24700,75000,6.22,,1
+B,MORTGAGE,Verified,credit_card, 36 months,10+ years,12.49,2,3,12,17,0,33100,72800,8.37,17,1
+F,OWN,Verified,other, 60 months,10+ years,23.83,0,0,7,24,0,5800,74000,23.61,,1
+A,MORTGAGE,Not Verified,debt_consolidation, 36 months,10+ years,8.39,0,1,30,49,0,96100,123000,29.35,38,1
+A,OWN,Not Verified,debt_consolidation, 36 months,10+ years,7.12,0,0,22,32,0,78500,45000,18.03,,1
+A,OWN,Not Verified,credit_card, 36 months,10+ years,6.62,1,1,12,42,0,,49000,17.41,16,0
+C,MORTGAGE,Source Verified,credit_card, 36 months,10+ years,14.49,2,0,12,20,1,27600,60000,13.24,0,1
+A,MORTGAGE,Verified,credit_card, 36 months,< 1 year,7.69,0,1,9,23,0,50300,85000,15.06,,1
+E,RENT,Source Verified,debt_consolidation, 36 months,< 1 year,16,1,2,11,27,0,,66996,16.25,8,1
+A,MORTGAGE,Source Verified,debt_consolidation, 36 months,10+ years,8.39,0,0,11,21,0,41700,66000,20.29,,1
+B,RENT,Verified,debt_consolidation, 36 months,10+ years,12.99,0,2,13,26,0,20650,42000,25.51,,1
+D,RENT,Source Verified,debt_consolidation, 60 months,1 year,16.49,0,1,10,25,0,31000,44000,34.53,71,1
+B,RENT,Source Verified,debt_consolidation, 36 months,< 1 year,12.49,0,0,7,21,0,12300,39520,7.56,,1
+A,MORTGAGE,Source Verified,moving, 36 months,10+ years,6.99,0,3,10,32,0,,60000,19.18,,1
+D,MORTGAGE,Source Verified,debt_consolidation, 60 months,1 year,15.61,0,1,24,52,0,22600,125000,10.96,78,1
+D,MORTGAGE,Source Verified,credit_card, 60 months,10+ years,18.92,0,2,19,47,0,49600,119000,27,,1
+D,MORTGAGE,Source Verified,debt_consolidation, 36 months,10+ years,16.99,0,0,10,16,0,8100,125000,6.1,59,1
+C,MORTGAGE,Verified,home_improvement, 60 months,10+ years,16.24,0,1,11,44,0,11800,79000,15.77,45,1
+D,MORTGAGE,Verified,credit_card, 60 months,,17.86,0,0,7,13,0,20200,38000,15.82,74,1
+D,RENT,Not Verified,debt_consolidation, 36 months,2 years,18.25,0,2,6,11,0,8400,33500,25.98,,1
+C,MORTGAGE,Verified,debt_consolidation, 36 months,10+ years,14.64,1,5,12,39,0,37100,160000,21.87,20,1
+C,MORTGAGE,Verified,debt_consolidation, 36 months,10+ years,12.99,0,2,25,50,0,92800,450000,7.13,,1
+F,OWN,Not Verified,debt_consolidation, 60 months,10+ years,24.08,1,0,9,31,0,98800,60000,14.56,4,1
+C,MORTGAGE,Verified,debt_consolidation, 36 months,7 years,15.22,2,0,18,38,0,45200,200000,15.31,13,0
+C,MORTGAGE,Not Verified,debt_consolidation, 36 months,10+ years,13.98,1,0,12,15,0,20400,84000,7.06,12,1
+C,RENT,Not Verified,debt_consolidation, 36 months,4 years,14.35,0,0,6,12,0,,72000,9.9,30,0
+C,MORTGAGE,Source Verified,debt_consolidation, 60 months,5 years,14.49,0,1,10,17,0,27700,160000,10.14,,1
+D,RENT,Source Verified,credit_card, 60 months,3 years,15.61,0,1,13,42,0,28400,62000,16.43,,1
+A,MORTGAGE,Not Verified,debt_consolidation, 36 months,7 years,7.69,0,0,10,27,0,36400,80000,20.6,,1
+D,RENT,Source Verified,credit_card, 36 months,3 years,18.49,0,1,9,13,0,10900,34000,21.25,,0
+C,MORTGAGE,Source Verified,debt_consolidation, 60 months,10+ years,15.61,0,1,18,28,0,23200,52800,16.41,25,1
+C,MORTGAGE,Source Verified,debt_consolidation, 60 months,2 years,16.2,1,0,11,31,0,24100,60000,15.18,2,1
+F,MORTGAGE,Verified,debt_consolidation, 60 months,1 year,23.43,1,0,8,23,0,178400,85000,20.98,16,1
+D,OWN,Not Verified,debt_consolidation, 36 months,10+ years,18.75,0,0,9,13,0,12500,36000,16.33,,1
+C,RENT,Not Verified,debt_consolidation, 36 months,10+ years,13.35,1,0,11,33,0,6400,75000,16.05,9,1
+B,MORTGAGE,Source Verified,credit_card, 60 months,10+ years,12.49,0,3,14,27,0,41900,75000,9.26,58,1
+D,RENT,Verified,other, 36 months,,16.99,0,3,10,14,0,5800,46000,26.45,,1
+B,MORTGAGE,Verified,other, 36 months,5 years,12.12,0,0,9,15,0,,60845,22.52,,0
+C,RENT,Source Verified,debt_consolidation, 36 months,< 1 year,15.61,0,0,10,10,0,18800,78000,11.46,,1
+E,MORTGAGE,Verified,debt_consolidation, 60 months,9 years,21.98,0,0,11,27,0,15100,62000,24.03,,1
+C,OWN,Verified,debt_consolidation, 36 months,5 years,14.64,0,1,11,29,0,10600,38400,23.53,78,1
+C,RENT,Verified,debt_consolidation, 60 months,10+ years,13.49,0,3,6,28,0,,67000,25.9,,1
+B,MORTGAGE,Verified,house, 60 months,1 year,10.16,0,0,13,38,0,,130000,16.28,,1
+A,OWN,Source Verified,debt_consolidation, 36 months,10+ years,7.12,0,1,5,15,0,35800,24000,30.2,,1
+D,OWN,Source Verified,credit_card, 60 months,4 years,19.52,1,0,15,51,0,19300,93000,11.36,12,1
+B,RENT,Source Verified,debt_consolidation, 60 months,< 1 year,12.49,0,0,11,19,0,16200,36000,14.33,44,1
+B,RENT,Verified,debt_consolidation, 36 months,1 year,10.65,0,0,8,12,0,,40000,18.63,,1
+A,OWN,Source Verified,credit_card, 36 months,10+ years,7.9,0,1,5,18,0,14300,67789.84,8.25,37,0
+A,MORTGAGE,Verified,house, 36 months,10+ years,7.62,0,2,7,18,0,,52000,13.41,,1
+C,MORTGAGE,Source Verified,credit_card, 60 months,7 years,14.31,0,2,9,28,0,23100,48000,13.25,,1
+B,MORTGAGE,Source Verified,debt_consolidation, 36 months,5 years,13.67,0,1,14,21,0,,41000,20.84,,0
+A,MORTGAGE,Not Verified,credit_card, 36 months,9 years,8.9,0,0,4,4,0,13700,85000,8.3,,0
+D,RENT,Not Verified,other, 36 months,10+ years,15.61,0,1,10,10,0,10500,32500,15.58,,1
+A,MORTGAGE,Source Verified,debt_consolidation, 36 months,10+ years,7.9,0,0,10,28,0,71600,55000,8.47,72,1
+B,RENT,Source Verified,debt_consolidation, 36 months,10+ years,13.11,0,0,14,22,0,14600,82000,15.45,47,1
+C,RENT,Verified,debt_consolidation, 60 months,1 year,16.78,0,0,14,25,0,27100,106150,16.53,,1
+B,OWN,Not Verified,debt_consolidation, 36 months,7 years,10.49,0,1,16,33,0,104300,75000,18.56,,1
+D,MORTGAGE,Source Verified,debt_consolidation, 36 months,10+ years,16.29,0,0,15,40,0,16100,24000,36.1,29,1
+B,MORTGAGE,Not Verified,debt_consolidation, 36 months,1 year,11.67,1,1,15,33,0,23900,65000,18.98,16,1
+A,MORTGAGE,Not Verified,debt_consolidation, 36 months,10+ years,7.14,0,0,14,20,0,,74880,19.7,,1
+C,MORTGAGE,Not Verified,debt_consolidation, 36 months,10+ years,15.8,0,3,13,18,0,9400,65000,15.25,54,1
+B,MORTGAGE,Verified,debt_consolidation, 36 months,10+ years,12.12,0,0,6,18,0,22800,50000,24.05,72,1
+D,MORTGAGE,Source Verified,other, 36 months,< 1 year,17.57,0,0,14,28,0,25900,60000,27.02,45,1
+A,RENT,Verified,credit_card, 36 months,10+ years,7.9,0,3,11,14,0,13000,45000,4.37,,1
+B,RENT,Verified,credit_card, 36 months,10+ years,9.17,0,1,14,41,0,41300,118000,31,44,1
+B,OWN,Not Verified,debt_consolidation, 36 months,4 years,12.18,0,0,8,13,0,,78000,19.88,,1
+A,MORTGAGE,Not Verified,credit_card, 36 months,10+ years,8.19,0,0,11,33,0,42700,40000,11.64,,1
+B,RENT,Source Verified,credit_card, 36 months,3 years,10.99,0,0,5,14,0,13500,70000,15.7,,0
+D,RENT,Verified,credit_card, 36 months,1 year,16.99,0,1,4,5,0,8500,20400,7.81,,1
+D,MORTGAGE,Verified,credit_card, 60 months,< 1 year,17.57,0,0,8,25,0,35600,60000,15.66,,0
+D,RENT,Verified,credit_card, 60 months,10+ years,18.25,0,0,8,21,0,44800,80000,11.6,30,1
+B,OWN,Verified,debt_consolidation, 60 months,10+ years,13.11,2,0,10,26,0,14900,103000,12.77,16,0
